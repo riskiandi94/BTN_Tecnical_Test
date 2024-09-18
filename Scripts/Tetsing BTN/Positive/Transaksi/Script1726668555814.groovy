@@ -82,7 +82,5 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Transaksi Positive/Page_CAFE - Login Page/Button Simpan'))
 
-WebUI.delay(3)
-
 WebUI.takeScreenshot()
 
