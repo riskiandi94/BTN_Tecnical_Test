@@ -29,31 +29,31 @@
       <variableLink>
          <testDataLinkId>8d33c076-1b51-4308-a109-59a76eea888c</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>QTY</value>
+         <value>Quantity_Item</value>
          <variableId>0c244ac5-3da0-4aaa-b928-9191d34dff68</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>8d33c076-1b51-4308-a109-59a76eea888c</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>QTY_1</value>
+         <value>Quantity_Item_1</value>
          <variableId>adfe7b26-cb4d-42bb-9b29-7a542b076ff8</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>8d33c076-1b51-4308-a109-59a76eea888c</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>QTY_2</value>
+         <value>Quantity_Item_2</value>
          <variableId>fa65c226-db4d-477e-9d83-87c6313d1823</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>8d33c076-1b51-4308-a109-59a76eea888c</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>QTY_3</value>
+         <value>Quantity_Item_3</value>
          <variableId>f1f907e6-479e-4882-99f8-42f1b8b23dc1</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>8d33c076-1b51-4308-a109-59a76eea888c</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>QTY_4</value>
+         <value>Quantity_Item_4</value>
          <variableId>eebeda4b-6cce-4327-b75e-0424ebfabbfd</variableId>
       </variableLink>
    </testCaseLink>

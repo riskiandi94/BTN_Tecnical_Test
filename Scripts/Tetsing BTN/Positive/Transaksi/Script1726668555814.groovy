@@ -15,7 +15,6 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
@@ -38,49 +37,35 @@ WebUI.click(findTestObject('Transaksi Positive/Page_CAFE - Login Page/Jenis pesa
 
 WebUI.click(findTestObject('Transaksi Positive/Page_CAFE - Login Page/Takeaway'))
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/img'))
 
-WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), QTY)
+WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/button_Tambah'))
-
-WebUI.delay(5)
 
 WebUI.click(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/img - Copy'))
 
-WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), QTY_1)
+WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item_1)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/button_Tambah'))
-
-WebUI.delay(3)
 
 WebUI.click(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/img - Copy (1)'))
 
-WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), QTY_2)
+WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item_2)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/button_Tambah'))
-
-WebUI.delay(5)
 
 WebUI.click(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/img - Copy (2)'))
 
-WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), QTY_3)
+WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item_3)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/button_Tambah'))
-
-WebUI.delay(3)
 
 WebUI.click(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/img - Copy (3)'))
 
-WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), QTY_4)
+WebUI.setText(findTestObject('Transaksi Positive/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item_4)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Positive/Page_Shifa Donat v.1.0.1/button_Tambah'))
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Transaksi Positive/Page_CAFE - Login Page/Button Simpan'))
-
-WebUI.takeScreenshot()
 

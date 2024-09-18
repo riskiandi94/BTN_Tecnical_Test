@@ -41,34 +41,34 @@
       <description></description>
       <id>0c244ac5-3da0-4aaa-b928-9191d34dff68</id>
       <masked>false</masked>
-      <name>QTY</name>
+      <name>Quantity_Item</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>adfe7b26-cb4d-42bb-9b29-7a542b076ff8</id>
       <masked>false</masked>
-      <name>QTY_1</name>
+      <name>Quantity_Item_1</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>fa65c226-db4d-477e-9d83-87c6313d1823</id>
       <masked>false</masked>
-      <name>QTY_2</name>
+      <name>Quantity_Item_2</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>f1f907e6-479e-4882-99f8-42f1b8b23dc1</id>
       <masked>false</masked>
-      <name>QTY_3</name>
+      <name>Quantity_Item_3</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>eebeda4b-6cce-4327-b75e-0424ebfabbfd</id>
       <masked>false</masked>
-      <name>QTY_4</name>
+      <name>Quantity_Item_4</name>
    </variable>
 </TestCaseEntity>

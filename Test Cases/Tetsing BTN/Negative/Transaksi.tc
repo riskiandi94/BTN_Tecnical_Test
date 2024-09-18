@@ -23,13 +23,13 @@
       <description></description>
       <id>f06cb3ad-c4c5-4757-9d89-6823e84ef4ab</id>
       <masked>false</masked>
-      <name>QTY</name>
+      <name>Quantity_Item</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>8ac00a90-0388-4f74-bb19-69ea391dc701</id>
       <masked>false</masked>
-      <name>QTY_1</name>
+      <name>Quantity_Item_1</name>
    </variable>
 </TestCaseEntity>
