@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Makan Ditempat                      _7f16f5</name>
+   <tag></tag>
+   <elementGuidId>56b1423b-19d0-4d43-92a2-2f884d0827d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='orderType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#orderType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a0fc0ee6-d85a-49ca-9243-ee553019d267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>orderType</value>
+      <webElementGuid>1d157986-454c-4835-8ca7-cb641e4e9bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select custom-select-sm</value>
+      <webElementGuid>c0dcf726-aa77-4bda-8699-d69cd6f28ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ordertype</value>
+      <webElementGuid>e4e9e4bb-589f-4f2a-b44d-9cbee76fb7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Makan Ditempat
+                        Bungkus
+                      </value>
+      <webElementGuid>72600b96-2621-411e-937e-bf986cf00842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderType&quot;)</value>
+      <webElementGuid>2741f545-d4cd-422e-b6e9-4eabe72d3634</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='orderType']</value>
+      <webElementGuid>7fd1e1a3-d88e-4ed0-9ae1-4632d4e2c526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='orderMenuForm']/div/div/div/select</value>
+      <webElementGuid>a502805b-ddad-4073-a47a-e2ed899dc785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Pesanan'])[1]/following::select[1]</value>
+      <webElementGuid>0f0f4fc5-4eb0-46b8-9218-100babf2a3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mineral dingin'])[1]/following::select[1]</value>
+      <webElementGuid>89a68f01-10a4-4d91-bb36-0d18190d4b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Meja'])[1]/preceding::select[1]</value>
+      <webElementGuid>95c5ac4b-aaf5-4a96-a3eb-f1d4137c4d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::select[1]</value>
+      <webElementGuid>d8bfafa7-7d50-46c1-a03a-eabfc5595ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a6fedb3d-c2a2-4f72-8414-9d047da42800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'orderType' and @name = 'ordertype' and (text() = '
+                        Makan Ditempat
+                        Bungkus
+                      ' or . = '
+                        Makan Ditempat
+                        Bungkus
+                      ')]</value>
+      <webElementGuid>76180e38-33b8-47ba-ac35-87cb3846366b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

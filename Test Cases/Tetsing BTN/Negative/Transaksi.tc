@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transaksi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d80ccc46-d8ff-4b55-bba2-a9241b54266f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f06cb3ad-c4c5-4757-9d89-6823e84ef4ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ac00a90-0388-4f74-bb19-69ea391dc701</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f06cb3ad-c4c5-4757-9d89-6823e84ef4ab</id>
+      <masked>false</masked>
+      <name>QTY</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ac00a90-0388-4f74-bb19-69ea391dc701</id>
+      <masked>false</masked>
+      <name>QTY_1</name>
+   </variable>
+</TestCaseEntity>
