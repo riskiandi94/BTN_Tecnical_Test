@@ -37,13 +37,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Transaksi Negative 1
 
 WebUI.click(findTestObject('Object Repository/Transaksi Negative 1/Page_Shifa Donat v.1.0.1/img'))
 
-WebUI.setText(findTestObject('Transaksi Negative 1/Page_Shifa Donat v.1.0.1/QYT'), QTY)
+WebUI.setText(findTestObject('Transaksi Negative 1/Page_Shifa Donat v.1.0.1/QYT'), Quantity_Item)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Negative 1/Page_Shifa Donat v.1.0.1/button_Tambah'))
 
 WebUI.click(findTestObject('Transaksi Negative 1/Page_Shifa Donat v.1.0.1/img - Copy'))
 
-WebUI.setText(findTestObject('Transaksi Negative 1/Page_Shifa Donat v.1.0.1/QYT - Copy'), QTY_1)
+WebUI.setText(findTestObject('Transaksi Negative 1/Page_Shifa Donat v.1.0.1/QYT - Copy'), Quantity_Item_1)
 
 WebUI.click(findTestObject('Object Repository/Transaksi Negative 1/Page_Shifa Donat v.1.0.1/button_Tambah'))
 
